@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Maksim-Gavr-04/ajs_4_matchers.git"
+    "url": "git+https://github.com/Maksim-Gavr-04/ajs_4_mocks.git"
   },
   "author": "Maksim-Gavr-04",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Maksim-Gavr-04/ajs_4_matchers/issues"
+    "url": "https://github.com/Maksim-Gavr-04/ajs_4_mocks/issues"
   },
-  "homepage": "https://github.com/Maksim-Gavr-04/ajs_4_matchers#readme",
+  "homepage": "https://github.com/Maksim-Gavr-04/ajs_4_mocks#readme",
   "devDependencies": {
     "@babel/cli": "^7.25.6",
     "@babel/core": "^7.25.2",
