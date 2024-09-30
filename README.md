@@ -1,6 +1,6 @@
 # Mocking (задача со звёздочкой)
 
-
+[![Build status](https://ci.appveyor.com/api/projects/status/ahi7ofo0uqw7cw6c?svg=true)](https://ci.appveyor.com/project/Maksim-Gavr-04/ajs-4-mocks)
 
 ## Легенда
 
